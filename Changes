@@ -1,5 +1,8 @@
 Revision history for Perl extension Tk::Date.
 
+0.44
+	- fix for some now deprecated DateTime::Locale methods
+
 0.43
 	- take care of encodings in localized weekdays and monthnames
 	- new demonstration showing localized dates

@@ -10,3 +10,4 @@ README
 t/date.t
 t/noprereq.t
 t/nowarn.t
+META.yml                                 Module meta-data (added by MakeMaker)
